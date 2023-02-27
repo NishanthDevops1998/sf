@@ -1,0 +1,15 @@
+<apex:page >
+ Relation are used to establish the connection between two or more objects.
+ There are five type of Relations
+    1)lookup Relation
+    2) Master Detailed Relation
+    3)Many to many(junction object) Relation
+    4)Hierarchical Relation
+    5)exteral lookup Relation
+ I)Lookup relation:
+    a) lookup relation is a datatype field.
+    b) we can create lookup field on standard object and custom object.
+    c) we can create the lookup on the object which have data and which doesn't have data.
+    d) it will create one-to many realtion between the objects.
+    e) object on which we have created the lookup key called the child object.
+</apex:page>
