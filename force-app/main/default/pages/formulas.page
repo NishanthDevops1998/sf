@@ -1,0 +1,8 @@
+<apex:page >
+    <apex:pagemessage Summary=" This is the summary of the error message"
+                      Severity="warning" strength="3" />
+    
+    <apex:pagemessages />
+    
+ 
+</apex:page>
