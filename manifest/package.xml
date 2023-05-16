@@ -9,6 +9,10 @@
         <name>ApexComponent</name>
     </types>
     <types>
+        <members>acnum__c</members>
+        <name>Customfield</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexPage</name>
     </types>
